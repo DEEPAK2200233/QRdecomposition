@@ -49,17 +49,6 @@ def QR_Decomposition(A):
 a = np.array(eval(input()))
 QR_Decomposition(a)
 ```
-### Gram-Schmidt Method
-```
-
-
-
-
-
-
-
-```
-
 ## Output
 ![Screenshot 2023-10-04 143412](https://github.com/DEEPAK2200233/QRdecomposition/assets/118707676/2cf14a24-2b76-438d-9042-28e8bea0aaf3)
 
